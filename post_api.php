@@ -1,11 +1,5 @@
 <?php
 
-// Thes project by Salar Brefki
-//برمجة وتطوير سالار بريفكي
-// YouTube: https://www.youtube.com/channel/UCphD-Ww9JnrBXRfzy6Ivg0g
-// Facebook: https://www.facebook.com/salar.brefki
-//Instagram: https://www.instagram.com/salarbrefki
-
 $servername = "localhost";
 $username = "id16201330_salarbrefki";
 $password = "_99118822Sa_";
